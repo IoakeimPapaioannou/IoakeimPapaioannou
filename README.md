@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IoakeimPapaioannou
-- 👀 I’m interested in coding in diffrent languages!
-- 🌱 I’m currently studying applied informatics in University of Macedonia.
-- 📫 Reach me in instagram: @papaioannouu___
+- 👀 I’m interested in coding in different languages!
+- 🌱 I’m currently studying applied informatics at the University of Macedonia.
+- 📫 Reach me on Instagram: @papaioannouu___
 
 
 <!---
